@@ -1,0 +1,9 @@
+streamlit
+pdfplumber
+langchain-community
+langchain-core
+langchain-groq
+faiss-cpu
+openpyxl
+pandas
+
