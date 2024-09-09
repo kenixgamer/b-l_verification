@@ -6,4 +6,5 @@ langchain-groq
 faiss-cpu
 openpyxl
 pandas
+docx2txt
 
